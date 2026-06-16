@@ -35,19 +35,19 @@ An AI-powered desktop application that analyzes journal entries and detects emot
 
 ### Home Screen
 
-![Home](screenshots/home.png)
+![Home](screenshots/home.PNG)
 
 ### Journal Editor
 
-![Editor](screenshots/journal_editor.png)
+![Editor](screenshots/journal_editor.PNG)
 
 ### Emotion Detection Results
 
-![Results](screenshots/emotion_results.png)
+![Results](screenshots/emotion_results.PNG)
 
 ### Timeline Visualization
 
-![Timeline](screenshots/timeline_chart.png)
+![Timeline](screenshots/timeline_chart.PNG)
 
 ## Installation
 
